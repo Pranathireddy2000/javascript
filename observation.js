@@ -1,0 +1,10 @@
+document.write("<h1>Knowledge about Javascript</h1>");
+document.write("<br/>");
+document.writeln("JavaScript is a very powerful client-side scripting language, inte webpages alive<br/>");
+document.write("This allows us to create dynamic content for the weroduced to makb.<br/>");
+document.write("JavaScript is a lightweight language that is open-source and allows cross-platform.<br/>");
+document.write("It doesn’t require compilation and is interpreted with object-oriented capabilities.<br/>");
+document.write("Also, it works with various other programming languages.<br/>");
+ document.write("And this is the reason for its vast use all around the world.<br/>");
+ document.write("Many popular websites and web applications like Google, Amazon, PayPal, etc use this language.<br/>");
+ document.write("The file extension of a JavaScript file is .js<br/>");
